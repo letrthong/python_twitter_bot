@@ -1,4 +1,6 @@
-#https://realpython.com/twitter-bot-python-tweepy/
+# https://realpython.com/twitter-bot-python-tweepy/
+# https://developer.twitter.com/en/portal/dashboard
+# pip install tweepy
 import tweepy
 CONSUMER_KEY=""
 CONSUMER_SECRET= ""
